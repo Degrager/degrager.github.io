@@ -4,7 +4,7 @@ Section: Themes
 Maintainer: Degrager
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/Blink.deb
+Filename: debs//Blink.deb
 Size: 942978
 MD5sum: 5fbfc51ad154733285d30b2077ea5fae
 Description: My First Theme
@@ -22,7 +22,7 @@ Maintainer: Degrager <zrileys0@gmail.com>
 Author: Degrager <zrileys0@gmail.com>
 Section: Themes
 MD5sum: d7d85c3a62ee34a74c6cc01a52b5f433
-Filename: ./debs/PineappleBars.deb
+Filename: debs//PineappleBars.deb
 
 Package: com.degrager.minimalls
 Name: MinimalLS 
@@ -34,7 +34,7 @@ Maintainer: Degrager <zrileys0@gmail.com>
 Author: Degrager <zrileys0@gmail.com>
 Section: Tweaks
 MD5sum: 3412fa3bb35703d9b5b9463080684389
-Filename: ./debs/MinimalLS.deb
+Filename: debs//MinimalLS.deb
 
 Package: com.degrager.xretina
 Version: 1.0
@@ -42,7 +42,7 @@ Section: Tweaks
 Maintainer: Degrager <zrileys0@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/XRetina.deb
+Filename: debs//XRetina.deb
 Size: 21974
 Installed-Size: 360
 MD5sum: 8c96526519a1f510649b5926b84b2a60
