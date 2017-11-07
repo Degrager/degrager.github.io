@@ -50,3 +50,16 @@ MD5sum: 8c96526519a1f510649b5926b84b2a60
 Description: iPhone X Super Retina Round Screen
 Name: XRetina
 Author: Degrager
+
+Package: com.degrager.repoicons
+Version: 1.0
+Section: Other
+Maintainer: Degrager
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//repoicons.deb
+Size: 17240
+MD5sum: e69cae3f80288505d5459d939f37313f
+Description: Repo Icons
+Name: Degrager's Repo Icons
+Author: Degrager
