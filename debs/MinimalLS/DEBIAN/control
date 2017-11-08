@@ -1,0 +1,10 @@
+Package: com.degrager.minimalls
+Name: minimalls
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Degrager
+Author: Degrager
+Section: Tweaks
+Version: 1.0
+Installed-Size: 168
