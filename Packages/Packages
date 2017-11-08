@@ -5,6 +5,7 @@ Maintainer: Degrager
 Depends: mobilesubstrate, com.degrager.repoicons
 Architecture: iphoneos-arm
 Filename: debs//Blink.deb
+Icon: file:///usr/share/Degrager/theme@2x.png
 Size: 942978
 MD5sum: 5fbfc51ad154733285d30b2077ea5fae
 Description: My First Theme
@@ -24,6 +25,7 @@ Author: Degrager <zrileys0@gmail.com>
 Section: Themes
 MD5sum: d7d85c3a62ee34a74c6cc01a52b5f433
 Filename: debs//PineappleBars.deb
+Icon: file:///usr/share/Degrager/theme@2x.png
 
 Package: com.degrager.minimalls
 Name: MinimalLS 
@@ -37,6 +39,7 @@ Author: Degrager <zrileys0@gmail.com>
 Section: Tweaks
 MD5sum: 3412fa3bb35703d9b5b9463080684389
 Filename: debs//MinimalLS.deb
+Icon: file:///usr/share/Degrager/tweaks@2x.png
 
 Package: com.degrager.xretina
 Version: 1.0
@@ -45,6 +48,7 @@ Maintainer: Degrager
 Depends: mobilesubstrate, com.degrager.repoicons
 Architecture: iphoneos-arm
 Filename: debs//xretina.deb
+Icon: file:///usr/share/Degrager/tweaks@2x.png
 Size: 21974
 MD5sum: 8c96526519a1f510649b5926b84b2a60
 Description: iPhone X Super Retina Round Screen
