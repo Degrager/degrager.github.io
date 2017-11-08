@@ -1,0 +1,10 @@
+Package: com.degrager.xretina
+Name: XRetina
+Depends: mobilesubstrate
+Description: iPhone X Super Retina Screen Round Corners
+Architecture: iphoneos-arm
+Maintainer: Degrager <zrileys0@gmail.com>
+Author: Degrager <zrileys0@gmail.com>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 360
