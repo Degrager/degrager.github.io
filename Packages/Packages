@@ -54,6 +54,7 @@ MD5sum: 84f4134983f2dcbf79d3b38241c9eabf
 Description: iPhone X Super Retina Round Screen
 Name: XRetina
 Author: Degrager
+Depiction: https://degrager.github.io/depictions/?p=com.degrager.xretina
 
 Package: com.degrager.repoicons
 Version: 1.0
