@@ -49,8 +49,8 @@ Depends: mobilesubstrate, com.degrager.repoicons
 Architecture: iphoneos-arm
 Filename: debs//xretina.deb
 Icon: file:///usr/share/Degrager/tweaks@2x.png
-Size: 29656
-MD5sum: 84f4134983f2dcbf79d3b38241c9eabf
+Size: 20148
+MD5sum: 12c4e6215f6ab568a1da2ffa459cb5a8
 Description: iPhone X Super Retina Round Screen
 Name: XRetina
 Author: Degrager
