@@ -1,6 +1,6 @@
 <package>
-	<id>com.degrager.xretina</id>
-	<name>XRetina</name>
+	<id>com.degrager.folderradii</id>
+	<name>FolderRadii</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -14,12 +14,18 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>Requires iOS 10 and below..</description>
+              <description>Change the Radius of Folder Icons
+              </description>
 	</descriptionlist>
       <screenshot>
 		<screenshot>
 			<description>Tweak Preferences</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
+		<screenshot>
+			<description>Squared Icons</description>
+			<image>demo.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Initial release</change>

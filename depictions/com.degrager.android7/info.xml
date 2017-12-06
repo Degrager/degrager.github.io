@@ -1,6 +1,6 @@
 <package>
-	<id>com.degrager.xretina</id>
-	<name>XRetina</name>
+	<id>com.degrager.android7</id>
+	<name>Android Nougat Theme</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -13,13 +13,13 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Requires iOS 10 and below..</description>
+		<description>Icons Ported from Android Nougat</description>
 	</descriptionlist>
-      <screenshot>
 		<screenshot>
-			<description>Tweak Preferences</description>
+			<description>
+</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Initial release</change>

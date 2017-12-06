@@ -30,19 +30,19 @@ Icon: file:///usr/share/Degrager/theme@2x.png
 Package: com.degrager.minimalls
 Name: MinimalLS 
 Version: 1.0
-Size: 5502
+Size: 3940
 Depends: mobilesubstrate, com.degrager.repoicons
 Architecture: iphoneos-arm
 Description: (Compatible with iOS 10) Simple tweak to hide Page Dots and Press To Unlock Text on the Lockscreen
 Maintainer: Degrager <zrileys0@gmail.com>
 Author: Degrager <zrileys0@gmail.com>
 Section: Tweaks
-MD5sum: 1796c9ee80bd80a59515d5251fb627ac
+MD5sum: f3213a4fd609adcccca6c77f2e6c29a3
 Filename: debs//MinimalLS.deb
 Icon: file:///usr/share/Degrager/tweaks@2x.png
 
 Package: com.degrager.xretina
-Version: 1.0
+Version: 1.0-14
 Section: Tweaks
 Maintainer: Degrager
 Depends: mobilesubstrate, com.degrager.repoicons
@@ -56,6 +56,21 @@ Name: XRetina
 Author: Degrager
 Depiction: https://degrager.github.io/depictions/?p=com.degrager.xretina
 
+Package: com.degrager.android7
+Version: 1.0
+Section: Themes
+Maintainer: Degrager
+Depends: mobilesubstrate, com.degrager.repoicons
+Architecture: iphoneos-arm
+Filename: debs//nougat.deb
+Icon: file:///usr/share/Degrager/theme@2x.png
+Size: 625676
+MD5sum: a28dd9f4ff098d49c5ae4f684e77b15b
+Description: Icons Ported from Android Nougat
+Name: Android Nougat Theme
+Author: Degrager
+Depiction: https://degrager.github.io/depictions/?p=com.degrager.android7
+
 Package: com.degrager.repoicons
 Version: 1.0
 Section: Other
@@ -68,3 +83,18 @@ MD5sum: 3161ee03653be1375adf08d3fb895f05
 Description: Repo Icons
 Name: Degrager's Repo Icons
 Author: Degrager
+
+Package: com.degrager.folderradii
+Version: 1.0
+Section: Tweaks
+Maintainer: Degrager
+Depends: mobilesubstrate, com.degrager.repoicons
+Architecture: iphoneos-arm
+Filename: debs//FolderRadii.deb
+Icon: file:///usr/share/Degrager/tweaks@2x.png
+Size: 19550
+MD5sum: 7277901b6c668e24ce99b96f04f1033e
+Description: Change the Radius of Folder Icons
+Name: FolderRadii
+Author: Degrager
+Depiction: https://degrager.github.io/depictions/?p=com.degrager.folderradii
