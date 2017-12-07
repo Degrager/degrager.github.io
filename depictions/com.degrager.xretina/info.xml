@@ -15,14 +15,14 @@
 	<descriptionlist>
 		<description>Requires iOS 10 and below..</description>
 	</descriptionlist>
-      <screenshot>
+      <screenshots>
 		<screenshot>
 			<description>Tweak Preferences</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Initial Release</change>
 	</changelog>
 	<links></links>
 </package>
