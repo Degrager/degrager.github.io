@@ -1,0 +1,26 @@
+<package>
+	<id>com.degrager.Xswitcher</id>
+	<name>XSwitcher</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>10.3.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Requires iOS 10 and below..</description>
+              <description>iPhone X Rounded App Switcher Corners
+              </description>
+	</descriptionlist>
+      <screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

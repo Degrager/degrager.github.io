@@ -98,3 +98,19 @@ Description: Change the Radius of Folder Icons
 Name: FolderRadii
 Author: Degrager
 Depiction: https://degrager.github.io/depictions/?p=com.degrager.folderradii
+
+Package: com.degrager.Xswitcher
+Version: 1.0
+Section: Tweaks
+Maintainer: Degrager
+Depends: mobilesubstrate, com.degrager.repoicons
+Architecture: iphoneos-arm
+Filename: debs//xswitcher.deb
+Icon: file:///usr/share/Degrager/tweaks@2x.png
+Size: 2732
+MD5sum: 6a14e6c73f800fe98c6acda55b8bda5f
+Description: iPhone X Rounded App Switcher Corners
+Name: XSwitcher
+Author: Degrager
+Depiction: https://degrager.github.io/depictions/?p=com.degrager.Xswitcher
+
