@@ -114,3 +114,18 @@ Name: XSwitcher
 Author: Degrager
 Depiction: https://degrager.github.io/depictions/?p=com.degrager.Xswitcher
 
+Package: com.degrager.faceidlockglyph
+Version: 1.0
+Section: Tweaks
+Maintainer: Degrager
+Depends: mobilesubstrate, com.degrager.repoicons
+Architecture: iphoneos-arm
+Filename: debs//FaceID.deb
+Icon: file:///usr/share/Degrager/theme@2x.png
+Size: 28846
+MD5sum: 6a14e6c73f800fe98c6acda55b8bda5f
+Description: FaceID Icon For LockGlyph/X
+Name: FaceID Icon For LockGlyph
+Author: Degrager
+Depiction: https://degrager.github.io/depictions/?p=com.degrager.faceidlockglyph
+

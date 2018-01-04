@@ -1,0 +1,30 @@
+<package>
+	<id>com.degrager.faceidlockglyph</id>
+	<name>FaceID Icon For LockGlyph</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Requires LockGlyph(X)</description>
+              <description>Change LockGlyph to FaceID Icon
+              </description>
+	</descriptionlist>
+      <screenshots>
+		<screenshot>
+			<description></description>
+			<image>ls.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
