@@ -123,7 +123,7 @@ Architecture: iphoneos-arm
 Filename: debs//FaceID.deb
 Icon: file:///usr/share/Degrager/theme@2x.png
 Size: 28846
-MD5sum: 6a14e6c73f800fe98c6acda55b8bda5f
+MD5sum: 183cec1647ae5f6e2a16602e957eb290
 Description: FaceID Icon For LockGlyph/X
 Name: FaceID Icon For LockGlyph
 Author: Degrager
