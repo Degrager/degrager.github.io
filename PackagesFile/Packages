@@ -129,3 +129,17 @@ Name: FaceID Icon For LockGlyph
 Author: Degrager
 Depiction: https://degrager.github.io/depictions/?p=com.degrager.faceidlockglyph
 
+Package: com.degrager.cydia11
+Version: 1.0
+Section: Tweaks
+Maintainer: Degrager
+Depends: mobilesubstrate, com.degrager.repoicons, com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Filename: debs//Cydia11.deb
+Icon: file:///usr/share/Degrager/theme@2x.png
+Size: 28846
+MD5sum: 6c728b3f75597034a3f886ee8363547a
+Description: iOS 11 Cydia Icon made by /u/whduddn99
+Name: Cydia11
+Author: Degrager
+Depiction: https://degrager.github.io/depictions/?p=com.degrager.cydia11
