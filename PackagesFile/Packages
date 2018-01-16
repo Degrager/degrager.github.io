@@ -116,7 +116,7 @@ Depiction: https://degrager.github.io/depictions/?p=com.degrager.Xswitcher
 
 Package: com.degrager.faceidlockglyph
 Version: 1.0
-Section: Tweaks
+Section: Themes
 Maintainer: Degrager
 Depends: mobilesubstrate, com.degrager.repoicons
 Architecture: iphoneos-arm
@@ -131,7 +131,7 @@ Depiction: https://degrager.github.io/depictions/?p=com.degrager.faceidlockglyph
 
 Package: com.degrager.cydia11
 Version: 1.0
-Section: Tweaks
+Section: Themes
 Maintainer: Degrager
 Depends: mobilesubstrate, com.degrager.repoicons, com.anemonetheming.anemone
 Architecture: iphoneos-arm
